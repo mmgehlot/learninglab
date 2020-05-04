@@ -17,5 +17,3 @@ Once you finished steps 1 and 2 and `committed` your files, go back to your [pro
 
 
 
-
-
